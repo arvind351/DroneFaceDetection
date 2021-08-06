@@ -1,0 +1,9 @@
+{
+  "height": 187,
+  "minDistance": 75000,
+  "maxDistance": 25000,
+  "minSides": 40,
+  "upDownSpeed": 18,
+  "yawSpeed": 30,
+  "forBackSpeed": 30
+}
